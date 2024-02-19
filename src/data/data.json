@@ -1,0 +1,88 @@
+{
+    "services":[
+        {
+            "title": "Philosophy",
+            "description": "you can write in our blog",
+            "picture":"images/philosophy.svg"
+        },
+        {
+            "title": "Payment",
+            "description": "we secure any payment method ",
+            "picture":"images/payment.svg"
+        },
+        {
+            "title": "Delivery",
+            "description": "balloon arch",
+            "picture":"images/delivery.svg"
+        },
+        {
+            "title": "customization",
+            "description": "we help visualize imaginations",
+            "picture":"images/flower.svg"
+        }
+    ],
+
+    "offers":[
+        {
+            "title": "Wedding photo shoot",
+            "description": "Wedding photo shoot",
+            "price": "40$",
+            "picture":"images/img1.png"
+        },
+        {
+            "title": "Flower arrangement",
+            "description": "bouquet",
+            "price": "10$",
+            "picture":"images/img2.png"
+        },
+        {
+            "title": "Platform decoration",
+            "description": "balloon arch",
+            "price": "30$",
+            "picture":"images/img3.png"
+        },
+        {
+            "title": "Plant Maintenance",
+            "description": "monthly care",
+            "price": "20$",
+            "picture":"images/img4.jpg"
+        },
+        {
+            "title": "Floral Workshops",
+            "description": "organized training",
+            "price": "30$",
+            "picture":"images/img5.jpg" 
+        },
+        {
+            "title": "Eco-Friendly Options",
+            "description": "non-plastic flowers",
+            "price": "20$",
+            "picture":"images/img6.jpg"
+        },
+        {
+            "title": "Funeral Flowers",
+            "description": "sympathy arrangements",
+            "price": "5$",
+            "picture":"images/img7.jpg" 
+        },
+        {
+            "title": "Garden Design",
+            "description": "potted plants",
+            "price": "25$",
+            "picture":"images/img8.jpg" 
+        },
+        {
+            "title": "DIY Flower Bar",
+            "description": "customers can create their bouquets ",
+            "price": "15$",
+            "picture":"images/img9.jpeg" 
+        },
+        {
+            "title": "Online Ordering",
+            "description": "fill form and order",
+            "price": "+25$",
+            "picture":"images/img10.jpg" 
+        }
+]
+
+}
